@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Página-1" id="rWoPMiUreDqottmZnyXB">
+    <mxGraphModel dx="640" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-10" edge="1" parent="1" source="PI1X9chgQKHIy7XSf-pv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PI1X9chgQKHIy7XSf-pv-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-15" edge="1" parent="1" source="PI1X9chgQKHIy7XSf-pv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PI1X9chgQKHIy7XSf-pv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-16" edge="1" parent="1" source="PI1X9chgQKHIy7XSf-pv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PI1X9chgQKHIy7XSf-pv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-17" edge="1" parent="1" source="PI1X9chgQKHIy7XSf-pv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PI1X9chgQKHIy7XSf-pv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-18" edge="1" parent="1" source="PI1X9chgQKHIy7XSf-pv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PI1X9chgQKHIy7XSf-pv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="USUARIO" vertex="1">
+          <mxGeometry height="40" width="80" x="375" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Introducir Nombre" vertex="1">
+          <mxGeometry height="40" width="80" x="155" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mover Heroe" vertex="1">
+          <mxGeometry height="40" width="80" x="485" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-9" edge="1" parent="1" source="PI1X9chgQKHIy7XSf-pv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PI1X9chgQKHIy7XSf-pv-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ganar Partida" vertex="1">
+          <mxGeometry height="40" width="80" x="585" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tirar Dado" vertex="1">
+          <mxGeometry height="40" width="80" x="375" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Guardar Record" vertex="1">
+          <mxGeometry height="40" width="80" x="585" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PI1X9chgQKHIy7XSf-pv-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Iniciar Partida" vertex="1">
+          <mxGeometry height="40" width="80" x="265" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
