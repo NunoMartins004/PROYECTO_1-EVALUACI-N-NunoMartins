@@ -1,0 +1,40 @@
+body
+{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#meta
+{
+    background-color: black;
+    color: white;
+}
+
+#final
+{
+    background-color: black;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    width: 45px;
+    height: 45px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+#botonDado img {
+    width: 60px;
+}
+
+.mover {
+    background-color: red;
+    cursor: pointer;
+}
+
